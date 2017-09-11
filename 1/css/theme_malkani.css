@@ -39,6 +39,15 @@ p{color:#fff;}
 	margin-top:25px;
 }
 
+.header-text p{
+	font-size:16px;
+	text-align: justify;
+	-webkit-hyphens: auto;
+	-moz-hyphens: auto;
+	-ms-hyphens: auto;
+	hyphens: auto;
+}
+
 .header-text img{
 	margin-top:25px;
 	margin-bottom: 45px;
